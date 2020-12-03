@@ -3,11 +3,16 @@
 ![](https://github.com/leocmps/mktgames/blob/main/Imagens/01%20-%20Logo.png)
 
 Nossa empresa é focada na venda de jogos e videogames. 
+```
 Nosso time é formado por: 
 Nelson Gabriel  [Git](https://github.com/Hellzz01), 
+
 Gabriel Silva   [Git](https://github.com/SrgabrielBR100), 
+
 Leonardo Campos [Git](https://github.com/leocmps) e 
+
 Gabriel Baran   [Git](https://github.com/gabrielbaran).
+```
 
 ### 📋 Pré-requisitos
 ```
