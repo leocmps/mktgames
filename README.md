@@ -1,13 +1,15 @@
-# MKTGAMES
+# MKTGAMES 
 
-### Logo
+### 📸 Logo 
 
 ![](https://github.com/leocmps/mktgames/blob/main/Imagens/01%20-%20Logo.png)
 
-Nossa empresa é focada na venda de jogos e videogames. 
-```
-Time de desenvolvedores:
+### 📄 Descrição 
 
+Nosso produto é um sistema completo de loja, focado na área de games e eletrônicos.
+
+### 🧑🏻‍💻 Desenvolvedores  
+```
 Nelson Gabriel, 
 
 Gabriel Silva, 
@@ -33,11 +35,11 @@ Para poder utilizar nosso produto, você vai precisar do Netbeans (ou outro IDE 
 04 - Utilize nosso produto. :D
 ```
 
-### Diagrama de Classe
+### 📄 Diagrama de Classe
 
 ![](https://github.com/leocmps/mktgames/blob/main/Imagens/02%20-%20DiagramaDeClasses.png)
 
-### Modelagem de BD
+### 📄 Modelagem de BD
 
 ![](https://github.com/leocmps/mktgames/blob/main/Imagens/03%20-%20ModelagemBancoDeDados.png)
 
@@ -45,7 +47,8 @@ Para poder utilizar nosso produto, você vai precisar do Netbeans (ou outro IDE 
 
 Versão 0.0.1 - Lançamento oficial do produto.
 
-**Telas**
+## 💻 Telas.
+
 
 ```
 Principal
@@ -72,10 +75,10 @@ Cadastro de Produtos
 
 ## ✒️ Autores
 
-* **Nelson Gabriel** - *Desenvolvedor* - [Git](https://github.com/Hellzz01)
-* **Gabriel Silva** - *Documentação e Trello* - [Git](https://github.com/SrgabrielBR100)
-* **Leonardo Campos** - *Desenvolvedor* - [Git](https://github.com/leocmps)
-* **Gabriel Baran** - *Desenvolvedor e dono do Repositório* - [Git](https://github.com/gabrielbaran)
+* **Nelson Gabriel** - *Desenvolvedor FullStack* -                  [Git](https://github.com/Hellzz01)
+* **Gabriel Silva** - *Desenvolvedor BackEnd / Documentação* -      [Git](https://github.com/SrgabrielBR100)
+* **Leonardo Campos** - *Desenvolvedor FrontEnd / Documentação* -   [Git](https://github.com/leocmps)
+* **Gabriel Baran** - *Desenvolvedor FrontEnd* -                    [Git](https://github.com/gabrielbaran)
 
 ## 📄 Licença
 
