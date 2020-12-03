@@ -47,7 +47,7 @@ Para poder utilizar nosso produto, você vai precisar do Netbeans (ou outro IDE 
 
 Versão 0.0.1 - Lançamento oficial do produto.
 
-## 💻 Telas.
+## 💻 Protótipos de Telas.
 
 
 ```
