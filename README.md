@@ -4,19 +4,20 @@
 
 Nossa empresa é focada na venda de jogos e videogames. 
 ```
-Nosso time é formado por: 
-Nelson Gabriel  [Git](https://github.com/Hellzz01), 
+Time de desenvolvedores:
 
-Gabriel Silva   [Git](https://github.com/SrgabrielBR100), 
+Nelson Gabriel, 
 
-Leonardo Campos [Git](https://github.com/leocmps) e 
+Gabriel Silva, 
 
-Gabriel Baran   [Git](https://github.com/gabrielbaran).
+Leonardo Campos e
+
+Gabriel Baran.
 ```
 
 ### 📋 Pré-requisitos
 ```
-Para poder utilizar nosso produto, você vai precisar do Netbeans (ou outro IDE que suporte a linguagem Java).
+Para poder utilizar nosso produto, você vai precisar do Netbeans (ou outro IDE que suporte Java).
 ```
 
 ### 🔧 Instalação
