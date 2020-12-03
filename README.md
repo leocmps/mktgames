@@ -11,7 +11,7 @@ Para poder rodar o nosso programa, você vai precisar do Netbeans (ou outro IDE 
 ```
 
 ### 🔧 Instalação
-```
+
 01 - Primeiro, baixe o código que se encontra no nosso repositório,
 ```
 02 - Com sua IDE de preferência, selecione nosso código na pasta onde baixou,
