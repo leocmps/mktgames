@@ -12,11 +12,13 @@ Para poder rodar o nosso programa, você vai precisar do Netbeans (ou outro IDE 
 
 ### 🔧 Instalação
 ```
-Primeiro, baixe o código no nosso repositório,
+01 - Primeiro, baixe o código que se encontra no nosso repositório,
 ```
-Abra no Netbeans (ou outro IDE que suporte Java) e abra o nosso código.
+02 - Com sua IDE de preferência, selecione nosso código na pasta onde baixou,
 ```
-Pronto, você já pode experimentar o nosso produto.
+03 - Execute a classe main,
+```
+04 - Utilize nosso produto. :D
 ```
 
 ### Diagrama de Classe
