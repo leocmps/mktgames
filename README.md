@@ -3,11 +3,15 @@
 ![](https://github.com/leocmps/mktgames/blob/main/Imagens/01%20-%20Logo.png)
 
 Nossa empresa é focada na venda de jogos e videogames. 
-Nosso time é o Nelson Gabriel, Gabriel Silva, Leonardo Campos e Gabriel Baran.
+Nosso time é formado por: 
+Nelson Gabriel  [Git](https://github.com/Hellzz01), 
+Gabriel Silva   [Git](https://github.com/SrgabrielBR100), 
+Leonardo Campos [Git](https://github.com/leocmps) e 
+Gabriel Baran   [Git](https://github.com/gabrielbaran).
 
 ### 📋 Pré-requisitos
 ```
-Para poder rodar o nosso programa, você vai precisar do Netbeans (ou outro IDE que suporte Java).
+Para poder utilizar nosso produto, você vai precisar do Netbeans (ou outro IDE que suporte a linguagem Java).
 ```
 
 ### 🔧 Instalação
