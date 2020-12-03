@@ -21,11 +21,11 @@ Pronto, você já pode experimentar o nosso produto.
 
 ### Diagrama de Classe
 
-![](https://github.com/gabrielbaran/mktgames/blob/main/Diagrama%20MKTGAMES%20-%20Cadastro%20de%20Clientes.png)
+![](https://github.com/leocmps/mktgames/blob/main/Imagens/02%20-%20DiagramaDeClasses.png)
 
 ### Modelagem de BD
 
-![](https://github.com/gabrielbaran/mktgames/blob/main/Modelagem%20de%20Banco.png)
+![](https://github.com/leocmps/mktgames/blob/main/Imagens/03%20-%20ModelagemBancoDeDados.png)
 
 ## 📦 Histórico de lançamentos.
 
@@ -36,17 +36,17 @@ Versão 0.0.1 - Lançamento oficial do produto.
 ```
 Principal
 ```
-![](https://github.com/gabrielbaran/mktgames/blob/main/viewprincipal.png)
+![](https://github.com/leocmps/mktgames/blob/main/Imagens/04%20-%20ViewPrincipal.png)
 
 ```
 Cadastro de Cliente
 ```
-![](https://github.com/gabrielbaran/mktgames/blob/main/viewcadastrocliente.png)
+![](https://github.com/leocmps/mktgames/blob/main/Imagens/05%20-%20ViewCadastroCliente.png)
 
 ```
 Cadastro de Produtos
 ```
-![](https://github.com/gabrielbaran/mktgames/blob/main/viewcadastroproduto.png)
+![](https://github.com/leocmps/mktgames/blob/main/Imagens/06%20-%20ViewCadastroProduto.png)
 
 
 ## 🛠️ Construído com
