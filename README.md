@@ -35,9 +35,13 @@ Para poder utilizar nosso produto, você vai precisar do Netbeans (ou outro IDE 
 04 - Utilize nosso produto. :D
 ```
 
-### 📄 Diagrama de Classe
+### 📄 Diagrama de Classe Cliente/Pessoa
 
 ![](https://github.com/leocmps/mktgames/blob/main/Imagens/02%20-%20DiagramaDeClasses.png)
+
+### 📄 Diagrama de Classe Produto
+
+![](https://github.com/leocmps/mktgames/blob/main/Imagens/07%20-%20DiagramaDeClassesProduto.png)
 
 ### 📄 Modelagem de BD
 
